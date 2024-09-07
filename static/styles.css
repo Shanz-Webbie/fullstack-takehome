@@ -1,0 +1,18 @@
+body {
+    display: inline-block;
+    background-color: palegoldenrod;
+  }
+
+  h1 {
+    font-family: sans-serif;
+    color: palevioletred;
+
+  }
+
+  img {
+    height: 200px;
+    width: 200px;
+    border: solid palegreen;
+    display: block;
+    margin: auto;
+  }
